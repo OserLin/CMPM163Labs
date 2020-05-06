@@ -1,3 +1,5 @@
-# CMPM163Labs
-https://drive.google.com/file/d/13wwjz6iaiYVUNhrfGOzOeq9NFnTkx1_I/view?usp=sharing
-![3model](https://user-images.githubusercontent.com/42346120/79293829-7bbfad00-7e89-11ea-966e-8ff8b3129be5.png)
+# lab5
+lab5a//
+https://drive.google.com/file/d/1b9ley5YIZi023UUN3Mc0OY3ON5HV4tTL/view?usp=sharing
+lab5b//
+https://drive.google.com/file/d/187O2C-0sfHgzsAkyyYn9SaagxF1cJtEv/view?usp=sharing
